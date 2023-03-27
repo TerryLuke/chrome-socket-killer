@@ -1,0 +1,11 @@
+{
+  "name": "chrome-socket-killer",
+  "version": "1.0.0",
+  "description": "chrome-socket-killer",
+  "main": "app.js",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-remote-interface": "^0.32.1"
+  },
+  "bin": "app.js"
+}
