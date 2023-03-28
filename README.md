@@ -2,8 +2,14 @@
 
 ## Installation
 Install NodeJs
+MacOS
 ```
 brew install nodejs
+```
+Windows
+
+```
+https://nodejs.org/en/download
 ```
 
 Install Yarn
@@ -27,13 +33,13 @@ pkg . --output chrome-socket-killer
 ## Usage
 ### MacOS
 Start Chrome with Debug Mode
-```bash
+```
 sudo /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222  >/dev/null 2>&1 &
 ```
 
 ### Windows
-```bash
-...
+```
+"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222
 ```
 
 ### Run
