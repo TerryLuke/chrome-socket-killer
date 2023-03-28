@@ -1,19 +1,20 @@
 # Chrome Socket Killer
 
 ## Installation
-Install NodeJs
 
-MacOS
+### Install NodeJs
+
+### MacOS
 ```
 brew install nodejs
 ```
-Windows
+### Windows
 
 ```
 https://nodejs.org/en/download
 ```
 
-Install Yarn
+### Install Yarn
 ```
 npm install -g yarn
 ```
